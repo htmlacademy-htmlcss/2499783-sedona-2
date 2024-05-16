@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Елена Гамова](https://up.htmlacademy.ru/htmlcss-individual/2/user/2499783).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Остаповец](https://htmlacademy.ru/profile/seraphim).
 
 ---
 
